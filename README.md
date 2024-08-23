@@ -1,2 +1,2 @@
 # Funyteca_app
-Aplicativo em kotlin/java kkkkk
+Aplicativo em kotlin/java
